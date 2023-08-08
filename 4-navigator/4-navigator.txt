@@ -1,6 +1,0 @@
-const adressLat = 4 ;
-const adressLong = 3 ;
-const positionLat = ' 4-я линия 66 ' ;
-const positionLong = ' татарская 46 ' ;
-const distance = ((adressLat*adressLat + adressLong*adressLong))
-console.log( ' Расстояние от ' + positionLat + ' до ' + positionLong + ' равно : ' + Math.sqrt(distance))
