@@ -12,4 +12,3 @@ console.log('你好') ;
 default :
 console.log('you are from another planet')
 }
- 
